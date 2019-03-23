@@ -18,6 +18,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+How countlessly they congregate  
+O’er our tumultuous snow,  
+Which flows in shapes as tall as trees  
+When wintry winds do blow!—  
+As if with keenness for our fate,  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
